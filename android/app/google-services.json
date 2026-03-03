@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807278314239",
+    "project_id": "saamay-4dc2a",
+    "storage_bucket": "saamay-4dc2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807278314239:android:bacdad6db4f50348bc82ca",
+        "android_client_info": {
+          "package_name": "com.saamay.consultant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQt6GMubMhIxodL_kgPl-M0XoK3e_1Eqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807278314239:android:79012db8d7185e14bc82ca",
+        "android_client_info": {
+          "package_name": "com.saamay.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQt6GMubMhIxodL_kgPl-M0XoK3e_1Eqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

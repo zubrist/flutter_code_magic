@@ -1,0 +1,2 @@
+D:/project/saamay_user_mobapp_v1_0/android/app/.cxx/RelWithDebInfo/5f1i1552/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/project/saamay_user_mobapp_v1_0/android/app/.cxx/RelWithDebInfo/5f1i1552/arm64-v8a/CMakeFiles/rebuild_cache.dir
